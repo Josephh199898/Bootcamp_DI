@@ -41,6 +41,27 @@
 
 
 
-const moreFruits = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
+// const moreFruits = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 
-console.log(moreFruits[1][1][0]);
+// console.log(moreFruits[1][1][0]);
+
+// let user = { 
+//     username: Yusif1998,
+//     password: 123456,
+// }
+
+// let database = [user];
+// console.log(database);
+
+
+// let newsfeed = [
+//     {username: "Jeki", timeline: "War In Azerbaijan"},
+//     {username: "Jeki", timeline: "War In Azerbaijan"},
+//     {username: "Jeki", timeline: "War In Azerbaijan"},
+// ]
+
+// console.log(newsfeed);
+
+for(let i = 0; 0 <= 15; i++) {
+    console.log(i)
+}
