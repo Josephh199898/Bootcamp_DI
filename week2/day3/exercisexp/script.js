@@ -22,7 +22,7 @@ const people = ["Greg", "Mary", "Devon", "James"];
 people.shift();
 let indexofJames = people.indexOf("James");
 people.splice(indexofJames, 1, "Jason")
-people.push("Nurlan");
+people.push("Nurlan"); 
 //console.log(people.indexOf("Mary"));
 let indexofMary = people.indexOf("Mary");
 let indexOfNurlan = people.indexOf("Nurlan");
